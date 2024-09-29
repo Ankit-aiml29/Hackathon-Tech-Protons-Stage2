@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather WebApp</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="weather-container">
+        <h2>Weather WebApp</h2>
+        <input type="text" id="city" placeholder="Enter city">
+        <button onclick="getWeather()">Search</button>
+        <button onclick="getWeatherByLocation()">Use My Location</button>
+
+        <img id="weather-icon" alt="Weather Icon">
+        <div id="temp-div"></div>
+        <div id="weather-info"></div>
+        <div id="air-quality"></div>
+
+        <div id="hourly-forecast"></div>
+        <div id="daily-forecast"></div>
+
+        <h3>Saved Favorite Cities</h3>
+        <div id="favorites"></div>
+        <button id="save-favorite-btn" onclick="saveFavoriteCity()">Save as Favorite</button>
+        
+        <button id="toggle-dark-mode" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+    </div>
+
+    <script src="script.js"></script> 
+</body>
+</html>
