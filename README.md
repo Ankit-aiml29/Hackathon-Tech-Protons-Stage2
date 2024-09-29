@@ -7,7 +7,9 @@ WEATHER WEBAPP
 Weather App with Dark Mode 🌦️🌙
 A weather web application that provides real-time weather information, 5-day forecasts, air quality index, and weather alerts for any city in the world. It includes geolocation support to fetch the user's weather automatically, a clean user interface , and detailed daily and hourly forecasts.
 <br>
+<br>
 Features 🚀
+<br>
 <br>
 Search Weather by City: Enter any city name to retrieve the current weather and forecasts.
 <br>
@@ -22,11 +24,11 @@ Daily Forecast: Get a 7-day weather forecast with temperature and weather condit
 Weather Alerts: Displays weather alerts for the current city, if any.
 <br>
 Air Quality Index (AQI): Shows the air quality levels based on location.
-
 <br>
 Responsive Design: Works across all screen sizes and devices.
 <br>
 Error Handling: If an invalid city is entered, the app will display an error message.
+<br>
 <br>
 Technologies Used 🧰
 <br>
