@@ -43,33 +43,7 @@ Weather Alerts: Displays weather alerts for the current city, if any.
 Air Quality Index (AQI): Shows the air quality levels based on location.
 Dark Mode: Toggle between light and dark modes for a better viewing experience.
 Responsive Design: Works across all screen sizes and devices.
-Demo 💻
-You can see a live demo of the application here.
-
-Screenshots 📸
-
-Dark mode with current weather data and forecast.
-
-Installation 📦
-To run the weather app locally, follow these steps:
-
-Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/weather-app.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd weather-app
-Open index.html in your browser:
-
-Simply double-click the index.html file to open it in your preferred browser, or run it through a local server.
-Usage 🛠️
-Search by City: Type in the name of any city and press "Enter" or click "Get Weather".
-Get Location-based Weather: Click the "Get Weather by Location" button to use your device's geolocation to fetch weather information for your current location.
-Toggle Dark Mode: Click the "Dark Mode" button to switch between light and dark themes.
+<br>
 Error Handling: If an invalid city is entered, the app will display an error message.
 <br>
 Technologies Used 🧰
